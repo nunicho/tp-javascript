@@ -1,3 +1,5 @@
+// 6.- Escribe un programa que pida dos números y escriba en la pantalla cual es el mayor.
+
 let valor1 = prompt("Ingresar primer valor");
 let valor2 = prompt("Ingresar segundo valor");
 
