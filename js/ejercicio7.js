@@ -1,4 +1,4 @@
-
+// 7.- Escribe un programa que pida 3 números y escriba en la pantalla el mayor de los tres.
 
 let valor1 = prompt("Ingresar primer valor");
 let valor2 = prompt("Ingresar segundo valor");
